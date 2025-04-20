@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "node",
+      "args": ["path/to/your/project/build/index.js"]
+    }
+  }
+}
